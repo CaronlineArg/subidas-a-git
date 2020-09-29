@@ -1,0 +1,37 @@
+[
+    {"ID":"001",
+        "NOMBRE":"Mariana",
+        "APELLIDO":"Medina",
+        "TELEFONO":"0223555555",
+        "EMAIL":"marta@gmail.com"
+
+    },
+    {"ID":"002",
+        "NOMBRE":"Carolina",
+        "APELLIDO":"Medina",
+        "TELEFONO":"022354523543555",
+        "EMAIL":"carola@gmail.com"
+
+    },
+    {"ID":"003",
+        "NOMBRE":"Alejandro",
+        "APELLIDO":"Medina",
+        "TELEFONO":"022455453454354645",
+        "EMAIL":"tombomba@gmail.com"
+
+    },
+    {"ID":"004",
+        "NOMBRE":"Fausto",
+        "APELLIDO":"Medina",
+        "TELEFONO":"02234325555",
+        "EMAIL":"fafi@gmail.com"
+
+    },
+    {"ID":"005",
+        "NOMBRE":"Satansito",
+        "APELLIDO":"Medina",
+        "TELEFONO":"0223666",
+        "EMAIL":"m666@gmail.com"
+
+    }
+]
